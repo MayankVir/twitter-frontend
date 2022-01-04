@@ -2,7 +2,7 @@
 import axios from "axios";
 
 // const BASE_URL = "http://localhost:5000";
-const BASE_URL = "https://twitter-spenny-assgn.herokuapp.com";
+const BASE_URL = "https://twitter-server-backend.herokuapp.com";
 
 let axiosConfig = {
   headers: {
